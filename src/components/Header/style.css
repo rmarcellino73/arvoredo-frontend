@@ -1,0 +1,22 @@
+.btnSignOut {
+  background: #45AD9A;
+  border: 0;
+  color: #FFF;
+  border-radius: 50%;
+  padding: 15px 10px;
+  margin-left: 10px
+}
+
+.logo {
+  color: #FEce26;
+  font-weight: bold;
+}
+
+.togo {
+  color: #45AD9A;
+  font-weight: bold;
+}
+
+.background {
+  background: #fff;
+}

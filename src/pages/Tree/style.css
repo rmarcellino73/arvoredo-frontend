@@ -1,0 +1,21 @@
+.ContainerT {
+  max-width: 1120px;
+  margin: 40px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ContentT {
+  width: 100%;
+  background: #f0f0f5;
+  display: flex;
+  padding: 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.linkButton {
+  background-color: #59B948;
+  text-align: center;
+}
